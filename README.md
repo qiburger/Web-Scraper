@@ -2,6 +2,7 @@
 
 
 The process behind this web scraper is relatively straight forward:
+
 	- first get all field urls via beautifulsoup using a sample country page
 		- here I naturally used the United States
 
