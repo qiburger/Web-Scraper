@@ -12,6 +12,8 @@ The process behind this web scraper is relatively straight forward:
 
 	- use this map to answer some interesting quesitons below
 
+Wth the help of regex and beautifulsoup, we can answer some interesting questions about different countries in the world: 
+
 1. List countries in South America that are prone to earthquakes.
 	- use get_earthquake_in_continent
 	    :param hazard: str input of natural hazard name. Must follow CIA convention
